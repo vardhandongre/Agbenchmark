@@ -1,0 +1,14 @@
+# minimal requirements.txt
+litellm>=1.27.3
+python-dotenv
+omegaconf
+datasets
+openai
+anthropic
+tiktoken
+wandb
+evaluate
+scikit-learn
+nltk
+bert-score
+rouge-score
